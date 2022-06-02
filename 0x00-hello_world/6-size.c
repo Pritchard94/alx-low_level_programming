@@ -2,6 +2,7 @@
 
 /**
  * main - this is the entry point
+ * good
  *
  * Return: the return value of the function.
  */
