@@ -8,8 +8,8 @@ int main(void)
 {	char String[] = "\"Programming is like building a multilingual puzzle";
 	puts(String);
 /**
- *  Return - this returns
- *  the value of the main function
+ *  Return 1
+ * 
  */
-	return 0;
+	return(0);
 }
