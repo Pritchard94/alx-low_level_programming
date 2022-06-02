@@ -1,17 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - this is the entry poin
- * Return : value for main function
+ * main-th is the Entry Point
+ * of the program
+ * Return - 1
  */
 int main(void)
-{	
-/* writing string */
-	char Mystr[] = "\"Programming is like building a multilingual puzzle"; 
-/* Main : this is a file that*/
-	puts(Mystr);
-/**
- * return - returns 
- * value 
- */	
+{	char String[] = "\"Programming is like building a multilingual puzzle";
+	puts(String);
 	return(0);
 }
