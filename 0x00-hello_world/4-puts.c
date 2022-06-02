@@ -7,5 +7,9 @@
 int main(void)
 {	char String[] = "\"Programming is like building a multilingual puzzle";
 	puts(String);
-	return(0);
+/**
+ *  Return - this returns
+ *  the value of the main function
+ */
+	return 0;
 }
