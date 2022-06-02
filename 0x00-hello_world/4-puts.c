@@ -1,15 +1,17 @@
 #include <stdio.h>
 /**
- * main - this is the entry point
+ * main - this is the entry poin
+ * Return : value for main function
  */
-int main (void)
-{	/* writing string */
+int main(void)
+{	
+/* writing string */
 	char Mystr[] = "\"Programming is like building a multilingual puzzle"; 
-	/* Main : this is a file that*/
+/* Main : this is a file that*/
 	puts(Mystr);
-       /**
-	* return - returns 
-	* value 
-	*/	
+/**
+ * return - returns 
+ * value 
+ */	
 	return(0);
 }
