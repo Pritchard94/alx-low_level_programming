@@ -6,7 +6,6 @@
  *
  * Return: the return value of 0 for success.
  */
-
 int main(void)
 {
 int i;
@@ -21,11 +20,6 @@ printf("Size of int: %ld byte(s)\n", (unsigned long)sizeof(i));
 printf("Size of long int: %ld byte(s)\n", (unsigned long)sizeof(l));
 printf("Size of long long int: %ld byte(s)\n", (unsigned long)sizeof(ll));
 printf("Size of float: %ld byte(s)\n", (unsigned long)sizeof(f));
-
-/**
- * the return valu
- * of function
- */
 return (0);
 
 }
