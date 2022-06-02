@@ -4,7 +4,7 @@
  * main - this is the entry point
  * good
  *
- * Return: the return value of the function.
+ * Return: the return value of 0 for success.
  */
 int main(void)
 {
