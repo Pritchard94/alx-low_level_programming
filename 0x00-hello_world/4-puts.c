@@ -1,6 +1,3 @@
-/** invoke stdio
- * to begin project
- */
 #include <stdio.h>
 /** thi is the enetry point 
  *
