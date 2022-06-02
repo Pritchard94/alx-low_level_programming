@@ -1,3 +1,4 @@
+/* print */
 #include<stdio.h>
 /**
  * main _ this is the entry point
