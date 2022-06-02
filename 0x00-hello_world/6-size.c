@@ -13,13 +13,9 @@ int main(void)
 	float floattype;
 /*print variable sizes*/
 	printf("Size of char: %ld byte(s)\n", (unsigned long)sizeof(chartype));
-
 	printf("Size of int: %ld byte(s)\n", (unsigned long)sizeof(inttype));
-
 	printf("Size of long int: %ld byte(s)\n", (unsigned long)sizeof(longinttype));
-
 	printf("Size of long long int: %ld byte(s)\n", (unsigned long)sizeof(longlongint));
-
 	printf("Size of float: %ld byte(s)\n", (unsigned long)sizeof(floattype));
 
 	return (0);
