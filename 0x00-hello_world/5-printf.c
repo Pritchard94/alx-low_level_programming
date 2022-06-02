@@ -1,10 +1,6 @@
-/**
- * print
- * the print function
- */
 #include<stdio.h>
 /**
- * main _ this is the entry point
+ * main - this is the entry point
  * printf function
 (*
  * description: alx)?
