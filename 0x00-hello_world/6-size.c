@@ -1,9 +1,9 @@
+#include<stdio.h>
 /**
  * main - this is the entry point
  *
  * Return: the return value of the function.
  */
-#include<stdio.h>
 int main(void)
 {
 	int i;
