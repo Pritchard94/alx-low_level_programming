@@ -3,7 +3,7 @@
  * main-th is the Entry Point
  * of the program.
  *
- * return - returns value of 0
+ * Return: return value of main function
  */
 int main(void)
 {	char String[] = "\"Programming is like building a multilingual puzzle";
