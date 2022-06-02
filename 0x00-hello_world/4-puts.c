@@ -1,5 +1,11 @@
+/** invoke stdio
+ * to begin project
+ */
 
 #include <stdio.h>
+/** thi is the enetry point 
+ *
+ */
 
 int main(void)
 
@@ -11,7 +17,11 @@ int main(void)
 	 * in betty style
 	 */
 
-	puts(Mystr); 
+	puts(Mystr);
+       /** return value
+	* for 
+	* expresion
+	*/	
 
 	return (0);
 }
