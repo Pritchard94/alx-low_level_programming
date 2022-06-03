@@ -7,13 +7,14 @@
  */
 int main(void)
 {
-	int i = 0;
+	int i;
+	const char *sep = "";
 
-	while (i <= 9)
+	for (i = 0; i <= 9; i++)
+		fputs(sep, stdout);
+	sep = ", ";
 		putchar(i);
-	putchar(',');
-	putchar(' ');
-	i++;
+	putchar('\n');
 
 	return (0);
 }
