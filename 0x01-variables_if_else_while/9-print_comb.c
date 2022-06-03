@@ -2,17 +2,15 @@
 #include<stdlib.h>
 /**
  * main - 
+ * numbers
  *
  * Return: success
  */
 int main(void)
 {
 	int i;
-	const char *sep = "";
 
 	for (i = 0; i <= 9; i++)
-		fputs(sep, stdout);
-	sep = ", ";
 		putchar(i);
 	putchar('\n');
 
