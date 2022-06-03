@@ -4,7 +4,7 @@
  * main - program
  * for hex
  *
- * Result: success
+ * Return: success
  */
 int main(void)
 {
