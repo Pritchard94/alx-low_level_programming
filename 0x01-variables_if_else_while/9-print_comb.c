@@ -1,14 +1,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 /**
- * main - 
+ * main - program for numberr
  * numbers
  *
  * Return: success
  */
 int main(void)
 {
-	int i;
+	int i = 0;
 
 	for (i = 0; i <= 9; i++)
 		putchar(i);
@@ -16,7 +16,6 @@ int main(void)
 		putchar(44);
 	if (i < 9)
 		putchar(32);
-	putchar('\n');
-
-	return (0);
+	
+	return (1);
 }
