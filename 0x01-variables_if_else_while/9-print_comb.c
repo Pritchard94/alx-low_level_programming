@@ -4,7 +4,7 @@
  * main - program for numberr
  * numbers
  *
- * Return: success
+ * Return: success .
  */
 int main(void)
 {
@@ -20,6 +20,6 @@ int main(void)
 		}
 	}
 	putchar('\n');
-
+	
 	return (0);
 }
