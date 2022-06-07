@@ -4,12 +4,15 @@
  *
  * Return: return 0
  */
-char _putchar(char c);
-
 int main(void)
 {
-	c = "_putchar";
-	int _putchar(char c)
+	char x = "_putchar";
+	int i;
+	for (i = 0; i < 8; i++)
+	{
+		_putchar(x);
+	}
+	_putchar('\n');
 
 	return (0);	
 
