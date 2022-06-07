@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * main - print alphabet 10x
+ * print_alphabet_x10 - print alphabet 10x
  *
  * Return: 0
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	char c;
-	int i;
+	int i = 0;
 
 	while (i <= 9)
 	{
