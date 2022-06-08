@@ -5,7 +5,7 @@
  * print_remaining_days - prit days
  * @month: in number fmt
  * @day: number of days
- * @year year
+ * @year: year
  *
  * Return: result
  */
