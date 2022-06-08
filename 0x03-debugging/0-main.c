@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * main - tests for positive or negative
- * 
+ * @i: number to be tested
+ *
  * Return: 0
  */
 int main(void)
