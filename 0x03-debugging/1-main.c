@@ -1,19 +1,19 @@
 #include<stdio.h>
 
 /**
-* main - causes an infinite loop
-* Return: 0
-*/
+ * main - check loop
+ * Return: empty
+ */
 
 int main(void)
 {
-	int i;
+	int x;
 
 	printf("Infinite loop incoming :(\n");
 
 	i = 0;
 
-	/*while (1 < 10)*/
+	/*while (i < 10)*/
 	/*{*/
 	/*	putchar(i);*/
 	/*}*/
@@ -22,3 +22,4 @@ int main(void)
 
 	return (0);
 }
+
