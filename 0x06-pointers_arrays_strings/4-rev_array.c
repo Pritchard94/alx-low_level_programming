@@ -22,6 +22,6 @@ void reverse_array(int *a, int n)
 		aux = a[k];
 		a[k] = *p;
 		*p = aux;
-		*p--;
+		p--;
 	}
 }
