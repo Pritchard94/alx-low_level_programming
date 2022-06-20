@@ -3,7 +3,7 @@
  * _memcpy - copy memory area
  * @dest: destination
  * @src: sosurce
- * @n: bytes from memory area to copy
+ * @c: bytes from memory area to copy
  *
  * Return: memory replaced
  */
