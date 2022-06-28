@@ -4,7 +4,7 @@
 /**
  * _strdup - duplicate a string
  * @str: string to duplicate
- * 
+ *
  * Return: duplicate dstring
  */
 char *_strdup(char *str)
@@ -32,5 +32,4 @@ char *_strdup(char *str)
 	}
 	s[a] = '\0';
 	return (s);
-}
-			
+}			
